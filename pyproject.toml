@@ -1,0 +1,18 @@
+[project]
+name = "MotionMySql"
+version = "0.0.1"
+authors = [
+  { name="CasearF", email="asearx@gmail.com" },
+]
+description = "Dynamically constructing add/delete/reference statements using python"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/CasearF/MotionMySql"
+Issues = "https://github.com/CasearF/MotionMySql/issues"
